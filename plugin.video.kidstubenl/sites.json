@@ -1,0 +1,186 @@
+{
+  "sites": [
+    {
+      "name": "Baby",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Baby": [
+          {
+            "site_url": "http://www.kids-tube.nl/baby-filmpjes",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Baby filmpjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Baby filmpjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Peuter",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Peuter": [
+          {
+            "site_url": "http://www.kids-tube.nl/peuterfilmpjes",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Peuter filmpjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Peuter filmpjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kleuter",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Kleuter": [
+          {
+            "site_url": "http://www.kids-tube.nl/kleuterfilmpjes",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Kleuter filmpjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Kleuter filmpjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kids 6+",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Kids 6+": [
+          {
+            "site_url": "http://www.kids-tube.nl/kids",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Kids 6+ filmpjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Kids 6+ filmpjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Liedjes",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Liedjes": [
+          {
+            "site_url": "http://www.kids-tube.nl/kinderliedjes",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Kinderliedjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Kinderliedjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Films",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Films": [
+          {
+            "site_url": "http://www.kids-tube.nl/kinderfilms",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Kinderfilms van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Kinderfilms van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thema's",
+      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "Thema's": [
+          {
+            "site_url": "http://www.kids-tube.nl/thema-filmpjes-kinderen",
+            "global": "<h2 class=\"blue\">Categorieën</h2>{%}<div class=\"cookiebar\">",
+            "pattern": "<a href=\"{%}\">{*}<img src=\"{%}\" alt={*}title={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
+          }
+        ]
+      }
+    }
+  ]
+}
