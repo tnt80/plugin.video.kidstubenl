@@ -2,7 +2,7 @@
   "sites": [
     {
       "name": "Baby",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/baby.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Baby": [
@@ -13,6 +13,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Baby filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -28,7 +29,7 @@
     },
     {
       "name": "Peuter",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/peuter.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Peuter": [
@@ -39,6 +40,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Peuter filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -54,7 +56,7 @@
     },
     {
       "name": "Kleuter",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/kleuter.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Kleuter": [
@@ -65,6 +67,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Kleuter filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -80,7 +83,7 @@
     },
     {
       "name": "Kids 6+",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/kids6+.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Kids 6+": [
@@ -91,6 +94,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Kids 6+ filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -106,7 +110,7 @@
     },
     {
       "name": "Liedjes",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/liedjes.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Liedjes": [
@@ -117,6 +121,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Kinderliedjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -132,7 +137,7 @@
     },
     {
       "name": "Films",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/films.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Films": [
@@ -143,6 +148,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Kinderfilms van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -158,7 +164,7 @@
     },
     {
       "name": "Thema's",
-      "poster": "special://home/addons/plugin.video.kidstubenl/icon.png",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/thema's.png",
       "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
       "items": {
         "Thema's": [
@@ -169,6 +175,7 @@
             "name": "{%3}",
             "url": "http://www.kids-tube.nl{%1}",
             "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
@@ -178,6 +185,32 @@
             "poster": "http://www.kids-tube.nl{%2}",
             "fanart": "http://www.kids-tube.nl{%2}",
             "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
+			}
+        ]
+      }
+    },
+    {
+      "name": "A-Z",
+      "poster": "special://home/addons/plugin.video.kidstubenl/artwork/a-z.png",
+      "fanart": "special://home/addons/plugin.video.kidstubenl/fanart.jpg",
+      "items": {
+        "A-Z": [
+          {
+            "site_url": "http://www.kids-tube.nl/a-z",
+            "pattern": "<div class=\"category\">{*}<div class=\"image\">{*}<a href=\"{%}\">{*}<img src=\"{%}\"/{*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+			"fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "A-Z lijst van http://www.kids-tube.nl (YouTube)"
+          },
+          {
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/{*}<h3>{%}</h3>",
+            "name": "{%3}",
+            "url": "http://www.kids-tube.nl{%1}",
+            "poster": "http://www.kids-tube.nl{%2}",
+            "fanart": "http://www.kids-tube.nl{%2}",
+            "plot": "A-Z lijst van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
