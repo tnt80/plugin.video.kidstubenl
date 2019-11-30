@@ -17,12 +17,12 @@
             "plot": "Baby filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Baby filmpjes van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -44,12 +44,12 @@
             "plot": "Peuter filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Peuter filmpjes van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -71,12 +71,12 @@
             "plot": "Kleuter filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Kleuter filmpjes van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -98,12 +98,12 @@
             "plot": "Kids 6+ filmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Kids 6+ filmpjes van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -125,12 +125,12 @@
             "plot": "Kinderliedjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Kinderliedjes van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -152,12 +152,12 @@
             "plot": "Kinderfilms van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "Kinderfilms van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
@@ -179,11 +179,11 @@
             "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/ alt={*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
             "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
 			}
         ]
@@ -205,12 +205,12 @@
             "plot": "A-Z lijst van http://www.kids-tube.nl (YouTube)"
           },
           {
-            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{%}\"><img src=\"{%}\"/{*}<h3>{%}</h3>",
+            "pattern": "<div class=\"video\">{*}<div class=\"image\">{*}<a href=\"{*}\"><img src=\"{%}FillWzc1MCw0MjJd/{%}.jpg\"{*}alt=\"{%}\"></a>",
             "name": "{%3}",
-            "url": "http://www.kids-tube.nl{%1}",
-            "poster": "http://www.kids-tube.nl{%2}",
-            "fanart": "http://www.kids-tube.nl{%2}",
-            "plot": "A-Z lijst van http://www.kids-tube.nl (YouTube)"
+            "url": "https://www.youtube.com/watch?v={%2}",
+            "poster": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "fanart": "http://www.kids-tube.nl{%1}FillWzc1MCw0MjJd/{%2}.jpg",
+            "plot": "Themafilmpjes van http://www.kids-tube.nl (YouTube)"
           }
         ]
       }
